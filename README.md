@@ -8,8 +8,10 @@ A high-performance, CLI-based terrain generation engine that utilizes mathematic
 * **ANSI Color Rendering:** Utilizes escape codes for high-fidelity CLI visualization of different material types.
 * **OOP Principles:** * **Encapsulation:** Core world logic is abstracted within `world` and `world_generator` classes.
     * **Data Structures:** Efficient use of 2D `std::vector` for grid management and `std::map` for biome configuration.
-
+      
+### 🖼 Preview
 ![World Generation Demo](demo.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
