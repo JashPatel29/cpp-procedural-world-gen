@@ -9,6 +9,7 @@ A high-performance, CLI-based terrain generation engine that utilizes mathematic
 * **OOP Principles:** * **Encapsulation:** Core world logic is abstracted within `world` and `world_generator` classes.
     * **Data Structures:** Efficient use of 2D `std::vector` for grid management and `std::map` for biome configuration.
 
+![World Generation Demo](demo.png)
 ## 🚀 Getting Started
 
 ### Prerequisites
