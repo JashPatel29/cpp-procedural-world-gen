@@ -1,0 +1,13 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+
+# IDE folders
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary build files
+build/
